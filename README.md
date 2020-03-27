@@ -1,6 +1,7 @@
 # first_flutter_app
 
-A new Flutter project.
+It is my first Flutter project.
+- [See Video Recording](https://drive.google.com/file/d/15h72CCkVUKaRDln7dqnVky2q6L-2qnrf/view?usp=sharing)
 
 ## Getting Started
 
